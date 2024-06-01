@@ -1,0 +1,8 @@
+{
+	"companyName": "RGIPT",
+	"clientID": "7a33e132-80cf-4a73-b743-2f19410f8faf",
+	"clientSecret": "eCcTfbYvzWzRRlJe",
+	"ownerName": "Abhishekh",
+	"ownerEmail": "21it3004+1@rgipt.ac.in",
+	"rollNo": "21it3004"
+}
